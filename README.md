@@ -28,7 +28,7 @@
 
 [Windows 10 21H2](https://github.com/itzfali/mediacreationtools/raw/refs/heads/main/files/windows10/MediaCreationTool_win10_21H2.exe)
 
-[Windows 10 22H2 (BROKEN)](https://download.microsoft.com/download/9/e/a/9eac306f-d134-4609-9c58-35d1638c2363/MediaCreationTool22H2.exe)
+[Windows 10 22H2](https://github.com/itzfali/mediacreationtools/raw/refs/heads/main/files/windows10/MediaCreationTool_win10_22H2.exe)
 
 # Windows 11
 
